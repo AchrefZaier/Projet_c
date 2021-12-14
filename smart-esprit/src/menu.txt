@@ -1,0 +1,6 @@
+22 petit_dejeuner Pizza 10.00 1 12 2021
+10 petit_dejeuner Spaghetti 12.00 2 12 2021
+13 petit_dejeuner crepe 9.00 3 12 2021
+24 petit_dejeuner bsisa 3.00 13 1 2030
+25 dejeuner coscsi 2.00 18 1 2030
+56 diner salade-cesar 23.00 31 1 2030
